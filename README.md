@@ -38,8 +38,8 @@ Cubo Perfeito	$a^3 \pm 3a^2b + 3ab^2 \pm b^3 = (a \pm b)^3$
 
 ### 3.3 Tratamento de Erros
 
-•	O sistema deve capturar exceções do tipo ValueError caso o usuário insira caracteres não numéricos.
-•	Deve exibir uma mensagem de erro amigável em vermelho: "Você não digitou ou digitou dados não numéricos!".
+*	O sistema deve capturar exceções do tipo ValueError caso o usuário insira caracteres não numéricos.
+*	Deve exibir uma mensagem de erro amigável em vermelho: "Você não digitou ou digitou dados não numéricos!".
 
 ---
 
